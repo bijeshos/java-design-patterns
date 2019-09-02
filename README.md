@@ -1,2 +1,2 @@
-# java-design-patterns
+# Java Design Patterns
 A collection of Java Design Pattern implementations
