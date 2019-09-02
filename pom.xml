@@ -8,9 +8,17 @@
     <artifactId>java-design-patterns</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
+
     <properties>
         <junit.version>5.0.2</junit.version>
+        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+
     </properties>
+
+    <modules>
+        <module>singleton</module>
+    </modules>
 
     <dependencies>
         <dependency>
