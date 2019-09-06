@@ -18,6 +18,7 @@
 
     <modules>
         <module>singleton</module>
+        <module>abstract-factory</module>
     </modules>
 
     <dependencies>
