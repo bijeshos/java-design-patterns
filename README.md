@@ -3,12 +3,16 @@ A collection of Java Design Pattern implementations
 
 ## Available Implementations
 
-### Abstract Factory
-### Factory Method
-### Singleton
+- Abstract Factory
+- Factory Method
+- Singleton
 
 ## Project Structure
 
-- Each of the implementation is a separate module
-- Each contains a *Demo* class which is the entry point
+- Each pattern is implemented in a separate module
+- Each module contains a *Demo* class which acts as the entry point
 
+
+# Note
+- This is the "development" branch. 
+- Documentation is work-in-progress
